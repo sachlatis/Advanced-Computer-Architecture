@@ -12,6 +12,6 @@ In this exercise we were asked to study the effect of the dispatch_width (dw) pa
 The purpose of this lab was to run a series of metrics in order to estimate the effect of different sync mechanisms on multi-core systems.
 Tools that were used: Sniper Multicore Simulator, PIN and a number of benchmarks.
  
-<img src="/images/TLB_streamcluster.png" width="25%" height ="25%">
+<img src="/images/TLB_streamcluster.png" width="40%" height ="40%">
  
 P.S. In this repository you can only find the code for the first lab. 
